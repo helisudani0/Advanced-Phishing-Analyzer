@@ -8,14 +8,14 @@ Built with a focus on **accuracy, explainability, and low false positives**.
 
 ## Key Features
 
--Real-time `.eml` email analysis
--Explainable phishing detection (reason-based, not black-box)
--Header, sender, domain & URL inspection
--Lookalike & spoofed domain detection
--Risk scoring system (0–100)
--Professional SOC-style PDF reports
--JSON & CSV exports for automation
--Modern GUI for analysts (Tkinter)
+- Real-time `.eml` email analysis
+- Explainable phishing detection (reason-based, not black-box)
+- Header, sender, domain & URL inspection
+- Lookalike & spoofed domain detection
+- Risk scoring system (0–100)
+- Professional SOC-style PDF reports
+- JSON & CSV exports for automation
+- Modern GUI for analysts (Tkinter)
 
 This analyzer:
 - Explains **what indicators triggered**
